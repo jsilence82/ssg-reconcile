@@ -29,7 +29,7 @@ financial summaries. This tool replaces that manual process with a single comman
 ```bash
 git clone https://github.com/jsilence82/ssg-reconcile.git
 cd ssg-reconcile
-go build -o ssg-reconcile ./...
+go build -o ssg-reconcile .
 ```
 
 Requires Go 1.21+.

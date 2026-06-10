@@ -1,0 +1,18 @@
+CLAUDE.md
+
+# Build output
+ssg-reconcile
+dist/
+
+# Go test artifacts
+*.test
+*.out
+coverage.html
+
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+*.swp

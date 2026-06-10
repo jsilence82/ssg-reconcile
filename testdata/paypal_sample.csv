@@ -1,0 +1,7 @@
+Date,Time,TimeZone,Name,Type,Status,Currency,Gross,Fee,Net,Transaction ID,From Email Address,To Email Address,Item Title,Item URL,Quantity,Subject,Note
+05/28/2026,10:15:00,CEST,REDACTED,Website Payment,Completed,EUR,"26,00","-1,57","24,43",1ABC2DEF3GHI4JKL,buyer1@example.com,ssg@example.com,Asking Strangers the Meaning of Life,,1,REDACTED,
+05/28/2026,14:22:00,CEST,REDACTED,Website Payment,Completed,EUR,"13,00","-0,78","12,22",2BCD3EFG4HIJ5KLM,buyer2@example.com,ssg@example.com,Asking Strangers the Meaning of Life,,1,REDACTED,
+05/28/2026,16:45:00,CEST,REDACTED,Website Payment,Completed,EUR,"56,00","-2,95","53,05",3CDE4FGH5IJK6LMN,buyer3@example.com,ssg@example.com,Asking Strangers the Meaning of Life,,4,REDACTED,
+05/29/2026,09:30:00,CEST,REDACTED,Website Payment,Completed,EUR,"13,00","-0,78","12,22",4DEF5GHI6JKL7MNO,buyer4@example.com,ssg@example.com,Asking Strangers the Meaning of Life,,1,REDACTED,
+05/29/2026,11:15:00,CEST,REDACTED,Website Payment,Completed,EUR,"26,00","-1,57","24,43",5EFG6HIJ7KLM8NOP,buyer5@example.com,ssg@example.com,Asking Strangers the Meaning of Life,,2,REDACTED,
+05/30/2026,20:05:00,CEST,REDACTED,Website Payment,Refunded,EUR,"-13,00","0,78","-12,22",6FGH7IJK8LMN9OPQ,buyer6@example.com,ssg@example.com,Asking Strangers the Meaning of Life,,1,REDACTED,

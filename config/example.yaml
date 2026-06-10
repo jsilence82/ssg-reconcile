@@ -1,0 +1,46 @@
+show_name: "Asking Strangers the Meaning of Life"
+
+performances:
+  - number: 1
+    event_id: "7871526"
+    date: "2026-05-28"
+  - number: 2
+    event_id: "7871528"
+    date: "2026-05-29"
+  - number: 3
+    event_id: "7871532"
+    date: "2026-05-30"
+  - number: 4
+    event_id: "7871534"
+    date: "2026-06-04"
+  - number: 5
+    event_id: "7871535"
+    date: "2026-06-05"
+  - number: 6
+    event_id: "7871536"
+    date: "2026-06-06"
+
+ticket_categories:
+  general: "Admission - General Admission"
+  student: "Admission - Student"
+  comp:    "Admission - Comp"
+
+pii:
+  paypal:
+    - "Name"
+    - "Address 1"
+    - "Address 2"
+    - "City"
+    - "State"
+    - "Zip"
+    - "Country"
+    - "Contact Phone Number"
+    - "Subject"
+    - "Note"
+  ticket_tailor:
+    - "Attendee name"
+    - "Postcode / Zip"
+
+fee_tolerance: 0.02
+
+currency: "EUR"

@@ -1,0 +1,12 @@
+Order ID,Payment reference,Event ID,Event,Event start,Ticket reference,Ticket type,Ticket price,Order status,Attendee name,Postcode / Zip,Check-in,Attended
+73322001,1ABC2DEF3GHI4JKL,7871526,Asking Strangers the Meaning of Life,Thu 28 May 2026 20:00,TKT-001,Admission - General Admission,13.00,PAYPAL,REDACTED,REDACTED,no,no
+73322001,1ABC2DEF3GHI4JKL,7871526,Asking Strangers the Meaning of Life,Thu 28 May 2026 20:00,TKT-002,Admission - Student,13.00,PAYPAL,REDACTED,REDACTED,no,no
+73322002,2BCD3EFG4HIJ5KLM,7871526,Asking Strangers the Meaning of Life,Thu 28 May 2026 20:00,TKT-003,Admission - General Admission,13.00,PAYPAL,REDACTED,REDACTED,yes,yes
+73322003,3CDE4FGH5IJK6LMN,7871526,Asking Strangers the Meaning of Life,Thu 28 May 2026 20:00,TKT-004,Admission - General Admission,13.00,PAYPAL,REDACTED,REDACTED,yes,yes
+73322003,3CDE4FGH5IJK6LMN,7871526,Asking Strangers the Meaning of Life,Thu 28 May 2026 20:00,TKT-005,Admission - General Admission,13.00,PAYPAL,REDACTED,REDACTED,yes,yes
+73322003,3CDE4FGH5IJK6LMN,7871528,Asking Strangers the Meaning of Life,Fri 29 May 2026 20:00,TKT-006,Admission - Student,13.00,PAYPAL,REDACTED,REDACTED,no,no
+73322003,3CDE4FGH5IJK6LMN,7871528,Asking Strangers the Meaning of Life,Fri 29 May 2026 20:00,TKT-007,Admission - Student,17.00,PAYPAL,REDACTED,REDACTED,no,no
+73322004,4DEF5GHI6JKL7MNO,7871528,Asking Strangers the Meaning of Life,Fri 29 May 2026 20:00,TKT-008,Admission - General Admission,13.00,PAYPAL,REDACTED,REDACTED,yes,yes
+73322005,5EFG6HIJ7KLM8NOP,7871528,Asking Strangers the Meaning of Life,Fri 29 May 2026 20:00,TKT-009,Admission - General Admission,13.00,PAYPAL,REDACTED,REDACTED,yes,yes
+73322005,5EFG6HIJ7KLM8NOP,7871528,Asking Strangers the Meaning of Life,Fri 29 May 2026 20:00,TKT-010,Admission - Student,13.00,PAYPAL,REDACTED,REDACTED,yes,yes
+73322006,,7871526,Asking Strangers the Meaning of Life,Thu 28 May 2026 20:00,TKT-011,Admission - Comp,0.00,NO_COST,REDACTED,REDACTED,no,no
